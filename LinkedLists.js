@@ -184,7 +184,5 @@ console.log("length: " + myList.length());
 
 myList.sort();
 
-console.log("sorted i think");
-
 myList.showAll();
 console.log("length: " + myList.length());
